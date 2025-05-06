@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "f938ac14e55b95a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf9957da99d8fb8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "383d294dda1b49ef",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AI_Introduction/taxonomy/82043 A4 - AI Taxonomy brief_v4_web.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "82043 A4 - AI Taxonomy brief_v4_web"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bebe721c5bf07ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "29613222d086c35d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "260fbf5e36b2cc9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0eaadca97c569727",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cdf501e0f5c18404",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "daa6bc9dcd2f3732",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fc283d274557dce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09716204be5b8a42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI_Introduction/taxonomy/82043 A4 - AI Taxonomy brief_v4_web.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 82043 A4 - AI Taxonomy brief_v4_web"
+            }
+          },
+          {
+            "id": "251e800d8cb428fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI_Introduction/taxonomy/82043 A4 - AI Taxonomy brief_v4_web.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 82043 A4 - AI Taxonomy brief_v4_web"
+            }
+          },
+          {
+            "id": "0c4ba467a2ca3f5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9c3a3b6be9e71d5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI_Introduction/taxonomy/82043 A4 - AI Taxonomy brief_v4_web.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 82043 A4 - AI Taxonomy brief_v4_web"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "383d294dda1b49ef",
+  "lastOpenFiles": [
+    "AI_Introduction/Introdução à Inteligência Artificial.pdf",
+    "AI_Introduction/taxonomy/Taxonomia.pdf",
+    "AI_Introduction/lab2/Lab2-Intro a IA.pdf",
+    "AI_Introduction/lab1/William_Parlow_Nichelatti_LAB_01.pdf",
+    "artificial-intelligence_mind_maps/artificial-intelligence-mind-map-philosophy.jpg",
+    "AI_Introduction/taxonomy/82043 A4 - AI Taxonomy brief_v4_web.pdf",
+    "artificial-intelligence_mind_maps/artificial-intelligence-mind-map-approaches.jpg",
+    "artificial-intelligence_mind_maps/deep-learning-mind-map.png",
+    "artificial-intelligence_mind_maps/artificial-intelligence-mind-map-technology.jpg",
+    "artificial-intelligence_mind_maps/artificial-intelligence-mind-map-goals.jpg",
+    "artificial-intelligence_mind_maps",
+    "AI_Introduction/taxonomy",
+    "AI_Introduction/mind_map",
+    "AI_Introduction/lab2",
+    "AI_Introduction/lab1",
+    "AI_Introduction"
+  ]
+}
