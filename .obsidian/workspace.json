@@ -11,14 +11,14 @@
             "id": "4d7937bf4552a991",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: README"
             }
           }
         ]
@@ -176,8 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d7937bf4552a991",
+  "active": "e0b5d735d1857bea",
   "lastOpenFiles": [
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "Frameworks_IA/Frameworks para IA.pdf",
     "IA_em_cenarios_reais/Language-Models-for-Few-Shot-Learners.pdf",
     "IA_em_cenarios_reais/Language-Models-for-Few-Shot-Learners.pdf.crdownload",
@@ -188,8 +190,6 @@
     "Bibliotecas_IA/Bibliotecas para IA.pdf",
     "Frameworks_IA/Apostila-5-Frameworks-IA.pdf",
     "Frameworks_IA/Apostila-5-Frameworks-IA.pdf.crdownload",
-    "Frameworks_IA",
-    "README.md",
     "Machine_Learning/types_of_ml.webp",
     "Machine_Learning/ml_vs_dl.webp",
     "artificial-intelligence_mind_maps/artificial-intelligence-mind-map-philosophy.jpg",
