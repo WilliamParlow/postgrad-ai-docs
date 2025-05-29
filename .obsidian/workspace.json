@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0d788581df542fb9",
+        "id": "6f25611126df356f",
         "type": "tabs",
         "children": [
           {
-            "id": "4d7937bf4552a991",
+            "id": "2ff073d3cfceab6a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "pdf",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "IA_em_cenarios_reais/IA em Cenários Reais - Watson And Person Assistant.pdf"
               },
-              "icon": "diff",
-              "title": "Diff: README"
+              "icon": "lucide-file-text",
+              "title": "IA em Cenários Reais - Watson And Person Assistant"
             }
           }
         ]
@@ -176,10 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0b5d735d1857bea",
+  "active": "2ff073d3cfceab6a",
   "lastOpenFiles": [
-    "IA_em_cenarios_reais/IA em Cenários Reais - Watson And Person Assistant.pdf",
     "IA_em_cenarios_reais/IA em Cenários Reais - GPT and ChatGPT.pdf",
+    "IA_em_cenarios_reais/IA em Cenários Reais - Watson And Person Assistant.pdf",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Frameworks_IA/Frameworks para IA.pdf",
