@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6f25611126df356f",
+        "id": "35ddbc0b5f07e478",
         "type": "tabs",
         "children": [
           {
-            "id": "2ff073d3cfceab6a",
+            "id": "812150c82714622f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "IA_em_cenarios_reais/IA em Cenários Reais - Watson And Person Assistant.pdf"
+                "file": "Introducao_IA/IA_em_cenarios_reais/IA_em_cenarios_reais_2/Apostila-7-Introdução a IA.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "IA em Cenários Reais - Watson And Person Assistant"
+              "title": "Apostila-7-Introdução a IA"
             }
           }
         ]
@@ -174,21 +174,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ff073d3cfceab6a",
+  "active": "812150c82714622f",
   "lastOpenFiles": [
-    "IA_em_cenarios_reais/IA em Cenários Reais - GPT and ChatGPT.pdf",
-    "IA_em_cenarios_reais/IA em Cenários Reais - Watson And Person Assistant.pdf",
+    "Introducao_IA/taxonomia/Taxonomia.pdf",
+    "Introducao_IA/IA_em_cenarios_reais/IA_em_cenarios_reais_1/Language-Models-for-Few-Shot-Learners.pdf",
+    "Introducao_IA/IA_em_cenarios_reais/IA_em_cenarios_reais_1/IA em Cenários Reais - Watson And Person Assistant.pdf",
+    "Introducao_IA/IA_em_cenarios_reais/IA_em_cenarios_reais_1/IA em Cenários Reais - GPT and ChatGPT.pdf",
+    "Introducao_IA/Problema_e_Busca/Problemas e Busca.pdf",
+    "Introducao_IA/Problema_e_Busca/taxonomia-dos-problemas de otimização.pdf",
+    "Introducao_IA/introducao/Introdução à Inteligência Artificial.pdf",
+    "Introducao_IA/taxonomia/82043 A4 - AI Taxonomy brief_v4_web.pdf",
+    "Introducao_IA/taxonomia/Apostila-2-Introdução a IA - Taxonomia - 2023-2.pdf",
+    "Introducao_IA/Bibliotecas_IA/Bibliotecas para IA.pdf",
+    "Introducao_IA/introducao/Apostila-1-Introdução a IA - 2023-2.pdf",
     "README.md",
+    "Introducao_IA/Machine_Learning/types_of_ml.webp",
+    "Introducao_IA/Machine_Learning/ml_vs_dl.webp",
     "conflict-files-obsidian-git.md",
-    "Frameworks_IA/Frameworks para IA.pdf",
-    "IA_em_cenarios_reais/Language-Models-for-Few-Shot-Learners.pdf",
-    "IA_em_cenarios_reais/Language-Models-for-Few-Shot-Learners.pdf.crdownload",
-    "IA_em_cenarios_reais/Apostila-6-Introdução-a-IA.pdf",
-    "IA_em_cenarios_reais/Apostila-6-Introdução-a-IA.pdf.crdownload",
-    "IA_em_cenarios_reais",
-    "Nova pasta",
-    "Bibliotecas_IA/Bibliotecas para IA.pdf",
-    "Frameworks_IA/Apostila-5-Frameworks-IA.pdf",
     "Machine_Learning/types_of_ml.webp",
     "Machine_Learning/ml_vs_dl.webp",
     "artificial-intelligence_mind_maps/artificial-intelligence-mind-map-philosophy.jpg",
