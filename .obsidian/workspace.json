@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "35ddbc0b5f07e478",
+        "id": "351a77eb7292f38f",
         "type": "tabs",
         "children": [
           {
-            "id": "812150c82714622f",
+            "id": "60f0b8f1fa6b0030",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Introducao_IA/IA_em_cenarios_reais/IA_em_cenarios_reais_2/Apostila-7-Introdução a IA.pdf"
+                "file": "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Apostila-7-Introdução a IA"
+              "title": "AulaConceitosBasicos_parte1"
             }
           }
         ]
@@ -174,19 +174,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "812150c82714622f",
+  "active": "60f0b8f1fa6b0030",
   "lastOpenFiles": [
-    "Introducao_IA/taxonomia/Taxonomia.pdf",
-    "Introducao_IA/IA_em_cenarios_reais/IA_em_cenarios_reais_1/Language-Models-for-Few-Shot-Learners.pdf",
-    "Introducao_IA/IA_em_cenarios_reais/IA_em_cenarios_reais_1/IA em Cenários Reais - Watson And Person Assistant.pdf",
-    "Introducao_IA/IA_em_cenarios_reais/IA_em_cenarios_reais_1/IA em Cenários Reais - GPT and ChatGPT.pdf",
-    "Introducao_IA/Problema_e_Busca/Problemas e Busca.pdf",
-    "Introducao_IA/Problema_e_Busca/taxonomia-dos-problemas de otimização.pdf",
-    "Introducao_IA/introducao/Introdução à Inteligência Artificial.pdf",
-    "Introducao_IA/taxonomia/82043 A4 - AI Taxonomy brief_v4_web.pdf",
-    "Introducao_IA/taxonomia/Apostila-2-Introdução a IA - Taxonomia - 2023-2.pdf",
+    "Estatistica_Aplicada/apresentacao/ApresentacaoDisciplina5.pdf",
+    "Estatistica_Aplicada/atividade_conc_basicos_R/Aula1_Atividades.pdf",
+    "Estatistica_Aplicada/conceitos_basicos_R/Aula1_Atividades.pdf.crdownload",
+    "Estatistica_Aplicada/atividade_conc_basicos_R",
+    "Estatistica_Aplicada/New folder",
+    "Introducao_IA/Bibliotecas_IA/Apostila-4-bibliotecas-para-ia.pdf",
     "Introducao_IA/Bibliotecas_IA/Bibliotecas para IA.pdf",
-    "Introducao_IA/introducao/Apostila-1-Introdução a IA - 2023-2.pdf",
+    "Introducao_IA/IA_em_cenarios_reais/IA_em_cenarios_reais_2/Apostila-7-Introdução a IA.pdf",
+    "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf",
+    "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf.crdownload",
+    "Estatistica_Aplicada/conceitos_basicos",
     "README.md",
     "Introducao_IA/Machine_Learning/types_of_ml.webp",
     "Introducao_IA/Machine_Learning/ml_vs_dl.webp",
