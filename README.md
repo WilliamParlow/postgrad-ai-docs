@@ -4,6 +4,10 @@ This is where all learning about IA from my postgrad will be stored
 
 - [Kaggle](https://www.kaggle.com/)
 - [Hugging Face](https://huggingface.co/)
+- [Base dos Dados](https://basedosdados.org/)
+- [Quandl](https://www.quandl.com/)
+- [CI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- [Dataset Search](https://datasetsearch.research.google.com/)
 
 ## Articles / Videos - S1
 

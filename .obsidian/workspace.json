@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "959fe5393cf116d2",
+        "id": "04b0e1192a1a7355",
         "type": "tabs",
         "children": [
           {
-            "id": "3ee27bcfe3ef1aa3",
+            "id": "1941a8323974735a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0b5d735d1857bea",
+  "active": "1941a8323974735a",
   "lastOpenFiles": [
     "README.md",
     "Redes_Neurais_Artificiais/Perceptron/Redes Perceptron - 3.pdf",
