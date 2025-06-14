@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "351a77eb7292f38f",
+        "id": "71bf3eb3217d7826",
         "type": "tabs",
         "children": [
           {
-            "id": "60f0b8f1fa6b0030",
+            "id": "3a6e8c492036a93b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "AulaConceitosBasicos_parte1"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -174,20 +176,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60f0b8f1fa6b0030",
+  "active": "3a6e8c492036a93b",
   "lastOpenFiles": [
-    "Estatistica_Aplicada/apresentacao/ApresentacaoDisciplina5.pdf",
-    "Estatistica_Aplicada/atividade_conc_basicos_R/Aula1_Atividades.pdf",
-    "Estatistica_Aplicada/conceitos_basicos_R/Aula1_Atividades.pdf.crdownload",
-    "Estatistica_Aplicada/atividade_conc_basicos_R",
-    "Estatistica_Aplicada/New folder",
-    "Introducao_IA/Bibliotecas_IA/Apostila-4-bibliotecas-para-ia.pdf",
-    "Introducao_IA/Bibliotecas_IA/Bibliotecas para IA.pdf",
-    "Introducao_IA/IA_em_cenarios_reais/IA_em_cenarios_reais_2/Apostila-7-Introdução a IA.pdf",
-    "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf",
-    "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf.crdownload",
-    "Estatistica_Aplicada/conceitos_basicos",
+    "Redes_Neurais_Artificiais/Perceptron/RNA - Aula 2 - Perceptron.pdf",
+    "Redes_Neurais_Artificiais/Perceptron/RNA - Aula 2 - Perceptron.pdf.crdownload",
+    "Redes_Neurais_Artificiais/Introducao/RNA - Aula 1 - Introdução.pdf",
+    "Redes_Neurais_Artificiais/Introducao/RNA - Aula 1 - Introdução.pdf.crdownload",
+    "[A.md",
     "README.md",
+    "[Let's.md",
+    "[Interferometric.md",
+    "Redes_Neurais_Artificiais/_misc/redes_neurais.pdf",
+    "Redes_Neurais_Artificiais/Perceptron",
+    "Redes_Neurais_Artificiais/Introducao",
+    "Redes_Neurais_Artificiais/_misc",
+    "Redes_Neurais_Artificiais",
+    "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf",
+    "Estatistica_Aplicada/atividade_conc_basicos_R/Aula1_Atividades.pdf",
     "Introducao_IA/Machine_Learning/types_of_ml.webp",
     "Introducao_IA/Machine_Learning/ml_vs_dl.webp",
     "conflict-files-obsidian-git.md",
