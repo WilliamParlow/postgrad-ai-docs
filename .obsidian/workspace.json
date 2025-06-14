@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b44b5d1d620a4485",
+        "id": "959fe5393cf116d2",
         "type": "tabs",
         "children": [
           {
-            "id": "720c15824368d1ab",
+            "id": "3ee27bcfe3ef1aa3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "720c15824368d1ab",
+  "active": "e0b5d735d1857bea",
   "lastOpenFiles": [
+    "README.md",
     "Redes_Neurais_Artificiais/Perceptron/Redes Perceptron - 3.pdf",
     "Redes_Neurais_Artificiais/Perceptron/Redes Perceptron - 2.pdf",
     "Redes_Neurais_Artificiais/Perceptron/Redes Perceptron - 1.pdf",
@@ -184,8 +185,6 @@
     "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf",
     "Estatistica_Aplicada/conceitos_basicos/Conceitos Básicos.pdf",
     "Estatistica_Aplicada/atividade_conc_basicos_R/Aula1_Atividades.pdf",
-    "Estatistica_Aplicada/apresentacao/ApresentacaoDisciplina5.pdf",
-    "README.md",
     "[A.md",
     "[Let's.md",
     "[Interferometric.md",

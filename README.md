@@ -21,4 +21,4 @@ This is where all learning about IA from my postgrad will be stored
 - [Google Colab - Página Oficial](https://colab.research.google.com/)
 - [Numpy - Página Oficial](https://numpy.org/)
 - [Pandas - Página Oficial](https://pandas.pydata.org/)
--  [Artigo sobre Datasets](https://simple.nama.ai/post/uma-lista-com-15-datasets-interessantes-que-vimos-por-ai)
+- [Artigo sobre Datasets](https://simple.nama.ai/post/uma-lista-com-15-datasets-interessantes-que-vimos-por-ai)
