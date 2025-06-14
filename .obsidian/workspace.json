@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71bf3eb3217d7826",
+        "id": "b44b5d1d620a4485",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6e8c492036a93b",
+            "id": "720c15824368d1ab",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Redes_Neurais_Artificiais/Introducao/Arquitetura, Topologia e Treinamento.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Arquitetura, Topologia e Treinamento"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -174,20 +172,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a6e8c492036a93b",
+  "active": "720c15824368d1ab",
   "lastOpenFiles": [
+    "Redes_Neurais_Artificiais/Perceptron/Redes Perceptron - 3.pdf",
+    "Redes_Neurais_Artificiais/Perceptron/Redes Perceptron - 2.pdf",
+    "Redes_Neurais_Artificiais/Perceptron/Redes Perceptron - 1.pdf",
+    "Redes_Neurais_Artificiais/Introducao/Arquitetura, Topologia e Treinamento.pdf",
+    "Redes_Neurais_Artificiais/Perceptron/Redes Perceptron.pdf",
     "Redes_Neurais_Artificiais/Introducao/Funções de ativação.pdf",
     "Redes_Neurais_Artificiais/Introducao/Introducao Redes Neurais Artificiais - RNA (ANN).pdf",
     "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf",
-    "Redes_Neurais_Artificiais/Introducao/Arquitetura, Topologia e Treinamento.pdf",
     "Estatistica_Aplicada/conceitos_basicos/Conceitos Básicos.pdf",
     "Estatistica_Aplicada/atividade_conc_basicos_R/Aula1_Atividades.pdf",
     "Estatistica_Aplicada/apresentacao/ApresentacaoDisciplina5.pdf",
     "README.md",
-    "Redes_Neurais_Artificiais/Perceptron/RNA - Aula 2 - Perceptron.pdf",
-    "Redes_Neurais_Artificiais/Perceptron/RNA - Aula 2 - Perceptron.pdf.crdownload",
-    "Redes_Neurais_Artificiais/Introducao/RNA - Aula 1 - Introdução.pdf",
-    "Redes_Neurais_Artificiais/Introducao/RNA - Aula 1 - Introdução.pdf.crdownload",
     "[A.md",
     "[Let's.md",
     "[Interferometric.md",
