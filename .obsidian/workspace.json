@@ -11,14 +11,12 @@
             "id": "3a6e8c492036a93b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Redes_Neurais_Artificiais/Introducao/Arquitetura, Topologia e Treinamento.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "Arquitetura, Topologia e Treinamento"
             }
           }
         ]
@@ -178,21 +176,21 @@
   },
   "active": "3a6e8c492036a93b",
   "lastOpenFiles": [
+    "Redes_Neurais_Artificiais/Introducao/Funções de ativação.pdf",
+    "Redes_Neurais_Artificiais/Introducao/Introducao Redes Neurais Artificiais - RNA (ANN).pdf",
+    "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf",
+    "Redes_Neurais_Artificiais/Introducao/Arquitetura, Topologia e Treinamento.pdf",
+    "Estatistica_Aplicada/conceitos_basicos/Conceitos Básicos.pdf",
+    "Estatistica_Aplicada/atividade_conc_basicos_R/Aula1_Atividades.pdf",
+    "Estatistica_Aplicada/apresentacao/ApresentacaoDisciplina5.pdf",
+    "README.md",
     "Redes_Neurais_Artificiais/Perceptron/RNA - Aula 2 - Perceptron.pdf",
     "Redes_Neurais_Artificiais/Perceptron/RNA - Aula 2 - Perceptron.pdf.crdownload",
     "Redes_Neurais_Artificiais/Introducao/RNA - Aula 1 - Introdução.pdf",
     "Redes_Neurais_Artificiais/Introducao/RNA - Aula 1 - Introdução.pdf.crdownload",
     "[A.md",
-    "README.md",
     "[Let's.md",
     "[Interferometric.md",
-    "Redes_Neurais_Artificiais/_misc/redes_neurais.pdf",
-    "Redes_Neurais_Artificiais/Perceptron",
-    "Redes_Neurais_Artificiais/Introducao",
-    "Redes_Neurais_Artificiais/_misc",
-    "Redes_Neurais_Artificiais",
-    "Estatistica_Aplicada/conceitos_basicos/AulaConceitosBasicos_parte1.pdf",
-    "Estatistica_Aplicada/atividade_conc_basicos_R/Aula1_Atividades.pdf",
     "Introducao_IA/Machine_Learning/types_of_ml.webp",
     "Introducao_IA/Machine_Learning/ml_vs_dl.webp",
     "conflict-files-obsidian-git.md",
